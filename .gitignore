@@ -1,0 +1,28 @@
+# Model weights (too large for GitHub)
+*.pt
+*.pth
+*.onnx
+
+# Dataset images (use Roboflow link instead)
+dataset/
+
+# Training runs output
+runs/
+
+# Detection output
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+_tmp_frame.jpg
